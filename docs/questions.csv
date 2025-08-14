@@ -1,0 +1,13 @@
+qid,type,company_scope,year,question
+Q01,numeric,AAPL,2023,"Break down Apple net sales by product category."
+Q02,narrative,AAPL,2023,"What supply chain risks does Apple highlight and how do they mitigate them?"
+Q03,numeric,NVDA,2023,"Summarize NVIDIA revenue by platform/segment for 2023."
+Q04,narrative,NVDA,2023,"What are NVIDIA's primary competitive risks noted in Item 1A?"
+Q05,numeric,MSFT,2023,"What were Microsoft's revenue and operating income by segment?"
+Q06,narrative,MSFT,2023,"What cloud-related risks does Microsoft cite?"
+Q07,numeric,AMZN,2023,"Summarize Amazon's net sales by segment/geography."
+Q08,narrative,AMZN,2023,"What fulfillment and logistics risks does Amazon report?"
+Q09,numeric,TSLA,2023,"Report Tesla automotive revenues and gross margin context."
+Q10,narrative,TSLA,2023,"What production and supply risks does Tesla identify?"
+Q11,compare,AAPL|NVDA|MSFT,2023,"Compare major AI-related risks across Apple, NVIDIA, and Microsoft."
+Q12,compare,AMZN|TSLA,2023,"Compare operating risks between Amazon and Tesla."
