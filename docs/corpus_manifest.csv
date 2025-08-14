@@ -1,0 +1,6 @@
+company,ticker,cik,year,form,notes
+Apple,AAPL,0000320193,2023,10-K,baseline
+NVIDIA,NVDA,0001045810,2023,10-K,baseline
+Microsoft,MSFT,0000789019,2023,10-K,baseline
+Amazon,AMZN,0001018724,2023,10-K,baseline
+Tesla,TSLA,0001318605,2023,10-K,baseline
